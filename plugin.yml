@@ -1,0 +1,8 @@
+name: PlayerChatEvent-Plugin-Sample
+main: pmmp_event\PlayerChatEvent
+author: PMMP Sample
+version: 1.0.0
+api: [3.0.0]
+load: STARTUP
+description: PocketMine-MPのPlayerChatEventプラグインのサンプルです。
+website: https://github.com/PMMP-Samples
